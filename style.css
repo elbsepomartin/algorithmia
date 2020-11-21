@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+}
+
+.center h1 {
+    margin-bottom: 50px;
+}
+
+.translation--result {
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 25px;
+    padding: 20px;
+    border: 1px solid black;
+    max-width: 600px;
+}
+
+.translation--result p {
+    margin-top: 20px;
+    font-size: 18px;
+}
